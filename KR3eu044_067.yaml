@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3eu044/jc/v1/juan/67
+seq: 67
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷六十七方論四十五亡名氏寒食散論隋志二卷佚寒食散湯方七録二十卷佚寒食散方七録二十卷佚曹氏歙解寒食散方佚冊府元龜曰魏東平王翕撰解寒食散方與皇甫謐所撰並行於世皇甫氏謐曹歙論寒食散方七録二卷佚釋氏道洪寒食散對療隋志一卷佚釋氏智斌解寒食散方隋志二卷佚解散論七録二卷佚亡名氏解寒食散論隋志二卷佚徐氏叔向解寒食散方七録六卷佚解散消息節度七録八卷佚解寒食散方新唐志十三卷佚釋氏慧義寒食解雜論七録七卷佚亡名氏雜散方隋志八卷佚解散方七録十二卷佚解散論七録十二卷佚範氏闕名解散方七録七卷佚亡名氏解慧義解散方七録一卷佚服石論隋志一卷佚解散經論並增損寒食節度隋志一卷佚宋氏尚太一護命石寒食散隋志二卷佚亡名氏序服石方隋志一卷佚寒食散方並消息節度新唐志二卷佚
+  hash: sha256:a78c8ab56ff85e88a292a3b4bb8f91d16e0544ddf04e1cb1dc2f739e0d719b6b
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3eu044_jc_067-d68.h1s1}
+  - {type: 'tls:div-start', offset: 4, content: '', id: KR3eu044_jc_067-d68d2, level: 2, head_text: 方論四十五}
+  - {type: 'tls:head', offset: 4, content: '', id: KR3eu044_jc_067-d68.d2.h1s1}
+  - {type: 'tls:div-end', offset: 315, content: '', id: KR3eu044_jc_067-d68d2}
+metadata:
+  title: 中國醫籍考
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eu044.xml
+hash: sha256:45871f53a760ea8a2ab2e6fb03eb0e797322b12ea422cd905827c79bfee2ca17

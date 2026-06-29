@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3eu044/jc/v1/juan/8
+seq: 8
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷八醫經八岐伯經隋志十卷佚白氏闕名內經漢志三十八卷佚外經漢志三十六卷佚旁篇漢志二十五卷佚扁鵲內經漢志九卷佚外經漢志十二卷佚扁鵲鏡經一卷佚南史張邵傳曰徐文伯字德秀濮陽太守熙曾孫也熙好黃老隱於秦望山有道士過求飲留一瓠𤬛與之曰君子孫宜以道術救世當得二千石熙開之乃扁鵲鏡經一卷因精心學之遂名震海內靈元經藝文略三卷佚
+  hash: sha256:597c87dc97d1002ef5f2d63c56e9216007b598cb32dd2eb246c53436ddb56c5e
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3eu044_jc_008-d9.h1s1}
+  - {type: 'tls:div-start', offset: 2, content: '', id: KR3eu044_jc_008-d9d2, level: 2, head_text: 醫經八}
+  - {type: 'tls:head', offset: 2, content: '', id: KR3eu044_jc_008-d9.d2.h1s1}
+  - {type: 'tls:div-end', offset: 153, content: '', id: KR3eu044_jc_008-d9d2}
+metadata:
+  title: 中國醫籍考
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eu044.xml
+hash: sha256:701a9dc80eb43d5d040cf3e4583e0897149b182c4291a93434dd8ec33f70a97d
