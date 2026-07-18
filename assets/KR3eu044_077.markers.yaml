@@ -3420,6 +3420,7 @@ markers:
   - {type: punctuation, offset: 9017, content: (, id: KR3eu044_jc_077-bkkpn1626}
   - {type: punctuation, offset: 9019, content: ), id: KR3eu044_jc_077-bkkpn1627}
   - {type: punctuation, offset: 9021, content: ), id: KR3eu044_jc_077-bkkpn1628}
+  - {type: 'voice:problem', offset: 9021, length: 0, id: KR3eu044_bkk_077-bkkvprob1, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 9021 with no matching '('}
   - {type: substitution, offset: 9024, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: 'tls:seg', offset: 9027, content: '', id: KR3eu044_jc_077-d78.d2.p152s2}
   - {type: xml-element, offset: 9029, content: '', id: KR3eu044_jc_077-d78.d2p152_end, name: p, role: close, attrs: {'xml:id': KR3eu044_jc_077-d78.d2p152}}
@@ -3716,4 +3717,4 @@ markers:
   - {type: punctuation, offset: 9588, content: 。, id: KR3eu044_jc_077-bkkpn1764}
   - {type: xml-element, offset: 9588, content: '', id: KR3eu044_jc_077-d78.d2p196_end, name: p, role: close, attrs: {'xml:id': KR3eu044_jc_077-d78.d2p196}}
   back: []
-hash: sha256:c965309abc501dde9874ce05b7f4fc8d374e3c3d4fd148fcd03851226a552ff1
+hash: sha256:7556e7ed50d4977e5c74829bee10877a2f61e2f8c05df8f03b557fb33512d008
